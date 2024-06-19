@@ -1,5 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
-
 ## 👨‍💻 Hello! I'm jpdevv!
 
 - 👨‍🎓 I'm currently studying Information Technology at `IFPB` (Instituto Federal da Paraíba)
@@ -9,11 +7,11 @@
 
 ##
 
-<a href="https://github.com/jpdevv/" display="flex">
+<a href="https://github.com/jpdevv/" display="block">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevv&theme=dark" />
 </a>
 
-<a href="https://github.com/jpdevv/" display="flex">
+<a href="https://github.com/jpdevv/" display="block">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpdevv&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
