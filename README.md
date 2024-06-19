@@ -7,7 +7,7 @@
 
 ##
 
-<div style="display:flex;flex-direction:collumn;">
+<div>
   <a href="https://github.com/jpdevv/">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevv&theme=dark" />
   </a>
