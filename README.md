@@ -7,7 +7,7 @@
 
 ##
 
-<div display="block">
+<div style="display:flex;flex-direction:collumn;">
   <a href="https://github.com/jpdevv/">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevv&theme=dark" />
   </a>
@@ -16,6 +16,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpdevv&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
 </div>
+
 #### Technologies and languages
 
 <div class="tech" text-align="center">
