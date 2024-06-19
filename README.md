@@ -1,16 +1,42 @@
-## Hi there 👋
+<head>
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+    <style>
+        .tech {
+            text-align: center;
+        }
+        i {
+            font-size: 40px;
+            display: inline-block;
+            padding: 5px 6px;
+            text-align: center;
+        }
+    </style>
+</head>
 
-<!--
-**jpdevv/jpdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Hello! I'm jpdevv!
 
-Here are some ideas to get you started:
+- 👨‍🎓 I'm currently studying IT at `IFPB` (Instituto Federal da Paraíba)
+- 💼 I plan to work as a frontend...
+- 📚 Studying HTML, CSS, JavaScript, and PHP
+- 👦 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<a href="https://github.com/jpdevv/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevv&theme=dark" />
+</a>
+
+<a href="https://github.com/jpdevv/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpdevv&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+#### Technologies and languages
+
+<div class="tech">
+    <i class="devicon-html5-plain colored"></i>
+    <i class="devicon-css3-plain colored"></i>
+    <i class="devicon-javascript-plain colored"></i>
+    <i class="devicon-php-plain colored"></i>
+</div>
+
+<hr>
