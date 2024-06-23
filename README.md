@@ -3,7 +3,7 @@
 - 👨‍🎓 I'm currently studying Information Technology at `IFPB` (Instituto Federal da Paraíba)
 - 💼 I plan to work as a frontend...
 - 📚 Studying HTML, CSS, JavaScript, and PHP
-- 👦 Pronouns: He/Hims
+- 👦 Pronouns: He/Him
 
 ##
 
