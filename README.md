@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevv&count_private=true&theme=transparent&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/jpdevv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdevv&layout=compact&theme=transparent" />
+  <img align="center" width=354px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdevv&layout=compact&theme=transparent" />
 </a>
 
 ##
