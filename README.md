@@ -7,16 +7,12 @@
 
 ##
 
-
-<div>
-  <a href="https://github.com/jpdevv/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevv&theme=dark" />
-  </a>
-
-  <a href="https://github.com/jpdevv/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpdevv&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
-</div>
+<a href="https://github.com/jpdevv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevv&count_private=true&theme=transparent&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/jpdevv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdevv&layout=compact&theme=transparent" />
+</a>
 
 ##
 
