@@ -1,8 +1,7 @@
 ## 👨‍💻 Hello! I'm jpdevv!
 
 - 👨‍🎓 I'm currently studying Information Technology at `IFPB` (Instituto Federal da Paraíba)
-- 💼 I plan to work as a frontend...
-- 📚 Studying HTML, CSS, JavaScript, and PHP
+- 📚 Studying HTML, CSS and JavaScript
 - 👦 Pronouns: He/Him
 
 ##
