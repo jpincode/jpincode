@@ -1,4 +1,4 @@
-## 👨‍💻 Hello! I'm jpdevv!
+## 👨‍💻 Hello! I'm João Paulo!
 
 - 👨‍🎓 I'm currently studying Information Technology at `IFPB` (Instituto Federal da Paraíba)
 - 📚 Studying HTML, CSS and JavaScript
