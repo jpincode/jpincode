@@ -79,6 +79,7 @@
 
 - **GitHub**: [@jpdevv](https://github.com/jpdevv)  
 - **LinkedIn**: [@joaodevv](https://www.linkedin.com/in/joaodevv)
+- **Instagram**: [@jp.arjj](https://www.instagram.com/jp.arjj)
 - **E-mail**: `joaoaraujo.developer@gmail.com` 
 
 💬 **Disponível para propostas de projetos, colaborações e oportunidades**. Sinta-se à vontade para me contatar!
