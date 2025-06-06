@@ -6,8 +6,8 @@
 🎓 **Estudante de Tecnologia da Informação** no [IFPB](https://www.ifpb.edu.br/)  
 📍 Dona Inês, Paraíba, Brasil  
 🧑‍💻 **Desenvolvedor Backend** com mais de **4 anos** de experiência  
-- 🎯 **Objetivo**: Tornar-me Engenheiro de Software e contribuir em projetos de impacto social e tecnológico.
-- 🚀 **Status Atual**: Freelancer em busca de novos projetos e desafios.  
+🎯 **Objetivo**: Tornar-me Engenheiro de Software e contribuir em projetos de impacto social e tecnológico.
+🚀 **Status Atual**: Freelancer em busca de novos projetos e desafios.  
 
 ---
 
