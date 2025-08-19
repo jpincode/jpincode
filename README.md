@@ -1,7 +1,7 @@
 # 👨‍💻 João Paulo
 
-[![GitHub followers](https://img.shields.io/github/followers/jpdevv?label=Seguidores&style=social)](https://github.com/jpdevv)
-[![Disponível para Freelance](https://img.shields.io/badge/Disponível-para%20Propostas-green)](https://github.com/jpdevv)
+[![GitHub followers](https://img.shields.io/github/followers/jpdevv?label=Seguidores&style=social)](https://github.com/jpincode)
+[![Disponível para Freelance](https://img.shields.io/badge/Disponível-para%20Propostas-green)](https://github.com/jpincode)
 
 🎓 **Estudante de Tecnologia da Informação** no [IFPB](https://www.ifpb.edu.br/)  
 📍 Dona Inês, Paraíba, Brasil  
@@ -65,10 +65,10 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/jpdevv">
+  <a href="https://github.com/jpincode">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpdevv&count_private=true&show_icons=true&theme=transparent&include_all_commits=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/jpdevv">
+  <a href="https://github.com/jpincode">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdevv&layout=compact&theme=transparent" alt="Top Languages" width="350px" />
   </a>
 </p>
@@ -77,7 +77,7 @@
 
 ## 📫 Contato & Redes Sociais
 
-- **GitHub**: [@jpdevv](https://github.com/jpdevv)  
+- **GitHub**: [@jpdevv](https://github.com/jpincode)  
 - **LinkedIn**: [@joaodevv](https://www.linkedin.com/in/joaodevv)
 - **Instagram**: [@jp.arjj](https://www.instagram.com/jp.arjj)
 - **E-mail**: `joaoaraujo.developer@gmail.com` 
