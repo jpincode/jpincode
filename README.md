@@ -56,7 +56,6 @@
 
 - **IFPB – Instituto Federal da Paraíba**  
   _Curso Técnico Integrado em Informática_ (2022 – 2025)  
-  - Atualmente no 4º ano do curso técnico integrado.
 
 - **Certificação Harvard CS50 Brasil** pela Fundação Estudar (2024)
 
